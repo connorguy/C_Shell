@@ -1,0 +1,7 @@
+I wrote this code myself.
+I believe everything works perfectly under all conditions.
+
+Bugs:
+cd/ls is not a built in function and will be execvp calls.
+May have issues when running something like "command1 < in command2"
+

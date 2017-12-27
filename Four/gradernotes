@@ -1,0 +1,7 @@
+I wrote this code myself.
+
+Known issues:
+	cd and ls-F commands are not implemented, but will be recognized and a "cd command" or "ls command" is printed.
+	The force write [>!] is not currently working.
+	
+
